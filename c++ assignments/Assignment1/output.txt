@@ -1,0 +1,28 @@
+DSA0104 – ASSIGNMENT 1 (CO1)
+Program outputs from the supplied assignment questions
+
+TASK 4 – Implicit conversions (given program)
+---------------------------------------------
+3 3.5
+C 68
+1 true
+s >= u
+
+TASK 5 – Operator precedence (given program)
+--------------------------------------------
+11 16
+9 6 4
+6 4
+3 1 -3 -1
+18
+
+TASK 6 – Fare calculation (completed TODO program)
+--------------------------------------------------
+Fare Rs 10.00 balance Rs 90
+Fare Rs 36.00 balance Rs 54
+Denied (low balance) balance Rs 54
+
+Note:
+Tasks 1–3 and 7–12 include analysis, design, or student-selected testing.
+They do not have one fixed output in the assignment sheet. For those tasks,
+the output depends on the specific program and test inputs you implement.

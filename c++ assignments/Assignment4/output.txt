@@ -1,0 +1,76 @@
+DSA0104 – ASSIGNMENT 4 (CO4)
+Outputs transcribed from the supplied Assignment 4 report
+
+TASK 1 – Staff hierarchy
+------------------------
+1 Ravi Rs.76000
+2 Meena Rs.28400
+3 Arun Rs.15000
+
+TASK 2 – Virtual inheritance / constructor order
+-------------------------------------------------
+Person Student Staff TA
+
+After removing virtual inheritance:
+Person Student Person Staff TA
+
+TASK 3 – Construction and destruction order
+--------------------------------------------
+Vehicle Engine Car | ~Car ~Engine ~Vehicle
+
+TASK 3 – Student constructor / member initialisation
+----------------------------------------------------
+192311001 Kavya (19) Salem-636001
+
+TASK 4 – Virtual functions and virtual destructor
+-------------------------------------------------
+3.5
+4
+~Account
+~SeniorAccount
+~Account
+
+TASK 4 – Static and dynamic binding / object slicing
+-----------------------------------------------------
+3.5 4
+3.5
+
+TASK 5 – Cart and this pointer
+------------------------------
+324.00
+via reference: 342.00
+via new: 50.00
+highest: 300.00
+
+TASK 6 – Vehicle rental fleet
+-----------------------------
+Bicycle       BC01
+100     Available
+TwoWheeler    TW01
+400     Available
+level=80
+service=1/12/2026
+Car           CR01
+1500    Available
+level=60
+service=15/1/2027
+ElectricCar   EC01
+2000    Available
+level=90
+service=10/2/2027
+ElectricBus   EB01
+6000    Available
+level=100
+service=5/3/2027
+
+Rent and return (3 days, 1 late day):
+Bicycle       Rs. 450
+TwoWheeler    Rs. 2200
+Car           Rs. 7750
+ElectricCar   Rs. 9300
+ElectricBus   Rs. 28400
+Double rent: 10
+
+Note:
+Outputs above are copied from the supplied report. The rental output is
+line-wrapped in the source PDF; the values are preserved here.

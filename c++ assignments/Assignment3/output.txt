@@ -1,0 +1,32 @@
+DSA0104 – ASSIGNMENT 2 (CO2)
+Program outputs from the supplied assignment questions
+
+Q1 – Call by value, reference, pointer, return by reference and defaults
+------------------------------------------------------------------------
+1 12 13
+1 100
+16
+13
+6
+
+Q1 – Complete the Code: call by value and call by reference
+-----------------------------------------------------------
+after call by value: 45000
+after call by reference: 40500
+
+Q5 – Static members and BusTicket objects
+------------------------------------------
+Asha: Seat 1
+Bala: Seat 2
+Chitra: Seat 3
+Dev: Waiting
+Issued: 3
+
+Q6 – Friend functions and inline functions
+------------------------------------------
+205 false
+
+Note:
+Q2–Q4 and Q7 require implementation/design choices and/or student-created
+tests. Their outputs depend on the code and test data you choose; the
+assignment sheet does not provide a single fixed output for them.

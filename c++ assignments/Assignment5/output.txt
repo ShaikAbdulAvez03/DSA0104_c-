@@ -1,0 +1,29 @@
+DSA0104 – ASSIGNMENT 5 (CO5)
+Outputs from the program snippets in the supplied assignment sheet
+
+TASK A2 – Virtual destructor / runtime polymorphism
+----------------------------------------------------
+500 ~OPBill ~Bill
+
+TASK A5 – Stack unwinding and destructors
+------------------------------------------
+~f ~main caught 42
+
+TASK B1 – Polymorphic hospital billing
+--------------------------------------
+OP Ravi: 1700
+IP Meena: 47500
+Total 49200
+
+TASK B2 – Exception validation and rethrowing
+---------------------------------------------
+approved 40000
+audit: exceeds cover
+claim rejected: exceeds cover
+error: negative amount
+
+Note:
+The remaining tasks require implementing the hospital billing hierarchy,
+running tests, and measuring execution times / sanitizer behaviour.
+Those results depend on the completed program and the execution environment;
+the assignment sheet does not provide fixed output values for them.
